@@ -1,4 +1,4 @@
-PROGRAM= hello
+PROGRAM= area
 
 run: ${PROGRAM}
     ./${PROGRAM}
